@@ -1,5 +1,6 @@
-Manual de usuario
----------------------------
+----------------------------
+***** Manual de usuario ****
+----------------------------
 
 1. Descargar el fuente
 2. Compilarlo
