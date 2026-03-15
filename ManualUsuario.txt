@@ -1,0 +1,8 @@
+Manual de usuario
+---------------------------
+
+1. Descargar el fuente
+2. Compilarlo
+3. Desplegarlo en producción.
+4. Verificar
+5. Dar soporte a usuario final
